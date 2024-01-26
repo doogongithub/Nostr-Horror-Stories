@@ -1,6 +1,6 @@
 - This document outlines the various issues that people have encountered on clients and relays built on the NOSTR protocol.
 - Note ID: note1993353nnqysydcx3k4nrse3xqqxnarpacduqfpcs0qjye8khhdqssmzvzv
-- ![nostr-horror-stories.png](./assets/nostr-horror-stories_1706196157964_0.png)
+- ![nostr-horror-stories.png](./assets/nostr-horror-stories.png)
 - Text Link:
   ```
   nostr:nevent1qyvhwumn8ghj7un9d3shjtnndehhyapwwdhkx6tpdshsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshsz9nhwden5te0wfjkccte9ehx7um5wghxuet59uq3xamnwvaz7tmsw4e8qmr9wpskwtn9wvhszrnhwden5te0dehhxtnvdakz7qg4waehxw309aex2mrp0yhxgctdw4eju6t09uq3wamnwvaz7tmjv4kxz7fwdehhxarj9e3xzmny9uq3vamnwvaz7tm9v3jkutnwdaehgu3wd3skuep0qywhwumn8ghj7mn0wd68ytnzd96xxmmfdejhytnnda3kjctv9uq35amnwvaz7tmwdaehgu3w0fjkyetyv4jjucmvda6kgtcqyq5kxxjxwvqjq3hq6x6kvwrxycqq605v8hphspy8zpuzgny767a5zk28ft3
