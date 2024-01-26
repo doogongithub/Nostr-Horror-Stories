@@ -1,13 +1,11 @@
-- Tis document outlines the various issues that people have encountered on clients and relays built on the NOSTR protocol.
+- This document outlines the various issues that people have encountered on clients and relays built on the NOSTR protocol.
 - Note ID: note1993353nnqysydcx3k4nrse3xqqxnarpacduqfpcs0qjye8khhdqssmzvzv
-- ![nostr-horror-stories.png](../assets/nostr-horror-stories_1706196157964_0.png)
--
+- ![nostr-horror-stories.png](./assets/nostr-horror-stories_1706196157964_0.png)
 - Text Link:
--
   ```
   nostr:nevent1qyvhwumn8ghj7un9d3shjtnndehhyapwwdhkx6tpdshsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshsz9nhwden5te0wfjkccte9ehx7um5wghxuet59uq3xamnwvaz7tmsw4e8qmr9wpskwtn9wvhszrnhwden5te0dehhxtnvdakz7qg4waehxw309aex2mrp0yhxgctdw4eju6t09uq3wamnwvaz7tmjv4kxz7fwdehhxarj9e3xzmny9uq3vamnwvaz7tm9v3jkutnwdaehgu3wd3skuep0qywhwumn8ghj7mn0wd68ytnzd96xxmmfdejhytnnda3kjctv9uq35amnwvaz7tmwdaehgu3w0fjkyetyv4jjucmvda6kgtcqyq5kxxjxwvqjq3hq6x6kvwrxycqq605v8hphspy8zpuzgny767a5zk28ft3
   ```
--
+
 - ## Stories
 	- Having to set zap amounts and zap emojis after each nsec login. [source](https://nostr.band/?q=nevent1qythwumn8ghj7un9d3shjtnswf5k6ctv9ehx2ap0qyghwumn8ghj7mn0wd68ytnhd9hx2tcpz3mhxue69uhkummnw3ezud3c8qhx7un89uqjvamnwvaz7tmxw3czu6rpd35kvctc9ee8warg94skzcmgv4hzuer99ahx7um5wgq3jamnwvaz7tmsw43xc6tr9eex2mrp095kueewd9hj7qgnwaehxw309ac82unsd3jhqct89ejhxtcprdmhxue69uhhyetvv9ujummjv9hxwetsd9kxctnyv4mz7qghwaehxw309aex2mrp0yhxummnw3ezucnpdejz7qgwwaehxw309ahx7uewd3hkctcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsqgyxwtqdxml20cgaamleeyk09khuregc5hl3vx6q4ynlkvh07tj47g3rqeth)
 	- More support for third-party signers. Source: [mattybs](https://nostr.band/?q=note18jezfc73fd6rvpdjpf56w0zsx2rzjnpy4vnt0dqnwhyu6t33hwvszweac6)
